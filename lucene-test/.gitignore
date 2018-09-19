@@ -1,0 +1,7 @@
+target
+lucene-test.iml
+.idea
+*.a
+/build/
+/doc/*.txt
+doc/**/*.pdf
